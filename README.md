@@ -54,3 +54,6 @@ Interactive Visual Analytics with Folium.ipynb
 Used 4 different Machine Learning models via Scikit-learn - Logistic Regression, Support Vector Machine, Decision Tree and KNN.
 The models were trained and tested using train-test split data from the Data Collection.
 I evaluated the accuracy test scores of each model and they were ready for SpaceY to use for predictions.
+```
+Predictive Analysis (Classification).ipynb
+```
